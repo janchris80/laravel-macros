@@ -1,12 +1,12 @@
 {
-    "name": "ajcastro/laravel-macros",
+    "name": "janchris80/laravel-macros",
     "description": "Reusable laravel macros.",
     "type": "library",
     "license": "MIT",
     "authors": [
         {
-            "name": "Arjon Jason Castro",
-            "email": "ajcastro29@gmail.com"
+            "name": "Jan Chris Ogel",
+            "email": "iamjc93@gmail.com"
         }
     ],
     "require": {
